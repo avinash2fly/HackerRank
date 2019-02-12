@@ -1,3 +1,5 @@
+package FrogMaze;
+
 import java.util.Scanner;
 
 
