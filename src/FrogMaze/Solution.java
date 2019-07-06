@@ -49,7 +49,7 @@ public class Solution {
 
         }
         // Write Your Code Here
-        // System.out.println(0.25);
+         System.out.println(0.25);
 
         scanner.close();
     }
